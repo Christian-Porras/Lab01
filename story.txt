@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 A long time ago, in a galaxy far, far away, nothing changed when the fire nation attacked.
 ||||||| merged common ancestors
-A long time ago, in a galaxy far, far away, everything changed when the fire nation attacked.
+A long time ago, in a galaxy far, far away, nothing changed when the fire nation attacked.
 =======
 A long time ago, in a galaxy far, far away, nothing changed when the fire nation attacked.
 >>>>>>> Conflict
