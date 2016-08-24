@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 A long time ago, in a galaxy far, far away, nothing changed when the fire nation attacked.
+||||||| merged common ancestors
+A long time ago, in a galaxy far, far away, everything changed when the fire nation attacked.
+=======
+A long time ago, in a galaxy far, far away, nothing changed when the fire nation attacked.
+>>>>>>> Conflict
 
 Chewy set out with his companion Sam to deliver the ring of power to mount doom.
